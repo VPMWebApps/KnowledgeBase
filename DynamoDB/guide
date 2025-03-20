@@ -1,2 +1,5 @@
 Primary key in aws dynamo db
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html#HowItWorks.CoreComponents.PrimaryKey
+
+Batch update
+https://medium.com/@abhaykumarchaudhary3/dynamodb-batch-update-multiple-items-in-a-table-768f64efaa20
